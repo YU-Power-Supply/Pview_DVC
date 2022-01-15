@@ -1,0 +1,5 @@
+outs:
+- md5: a38b006dbbba0fbd8136fada26d03f2c.dir
+  size: 417640629
+  nfiles: 80
+  path: oilly_model
